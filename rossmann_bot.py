@@ -18,8 +18,8 @@ TOKEN = '6145818864:AAHssJAUKmsL9-2FuvELrYe5hiS8kAbC65o'
 ## Webhook
 #https://api.telegram.org/bot6145818864:AAHssJAUKmsL9-2FuvELrYe5hiS8kAbC65o/setWebhook?url=https://e383895380915b.lhr.life
 
-## Webhook Heroku
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/setWebhook?url=https://rossmann-bot.herokuapp.com
+## Webhook Render
+#https://api.telegram.org/bot6145818864:AAHssJAUKmsL9-2FuvELrYe5hiS8kAbC65o/setWebhook?url=https://rossmann-telegram-dw95.onrender.com
 #
 ## send message
 #https://api.telegram.org/bot6145818864:AAHssJAUKmsL9-2FuvELrYe5hiS8kAbC65o/sendMessage?chat_id=1466982141&text=Hi Wesley, I am doing good, tks!
